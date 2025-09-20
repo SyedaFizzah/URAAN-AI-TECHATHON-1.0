@@ -67,6 +67,3 @@ The **Random Forest Classifier** performed the best with **ROC-AUC = 0.981** usi
 4. **Saving Artifacts**
    - Random Forest model saved as `random_forest_model.pkl` in Google Drive
    - Notebook saved to the same folder for reproducibility
-
----drive.mount('/content/drive')
-
