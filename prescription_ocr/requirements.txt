@@ -1,0 +1,10 @@
+opencv-python
+pillow
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow>=2.9.0
+tqdm
+pytesseract
+jiwer
